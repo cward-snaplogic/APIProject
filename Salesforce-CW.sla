@@ -1,0 +1,40 @@
+{
+    "class_id": "com-snaplogic-snaps-salesforce-salesforceaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "ConnectFasterInc"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Salesforce-CW"
+            }
+        },
+        "settings": {
+            "loginUrl": {
+                "value": "https://login.salesforce.com"
+            },
+            "password": {
+                "fp": "f7c9bca3cdb1d909994d00c87d300e1b5c16ef6881068c031269b72e8ba6d463",
+                "key": "account-cloud-managed-5592aed995315c0d2e1aaeeb-2015-06-30T14:59:59-654446",
+                "sym_iv": "rFABRs/Yn1Ilm6R1eC0o4Q==",
+                "sym_key": "DQExBOe2tzvpZAJ/4tOk5bmGvdxT+yTn8zGE3LaUbudC1hfaBdLtCk3A/Ii4OWBHyuNfVWRtkSZGXN6Ff694pKs8s3l95Eg/lVuzlDzQRz3wxBgjWXrJpgiFVjZrnmjzmA6Nkr/gEAQOlulWxQgUP5p0uja/1fpI3nzMY8AuEapcRNfUa61qSpdbyMyWrOStNx3lIXzFIK5rmIX+oRdvk32p/q5zIjekOwzhyyKrE/9sUe8ZIA3cUHBQrCyEqd0Tz+3INiJWmJ2mMoFW/ynMjE80rUjlkwOA2ynVaFGCVpJt0kEF3D7ffA3M/TAcxiPCoF4GzeY6usf75oef+Y53NA==",
+                "value": "JFEX+ahW8UkQ6q/L3aeFpg=="
+            },
+            "sandbox": {
+                "value": false
+            },
+            "securityToken": {
+                "fp": "f7c9bca3cdb1d909994d00c87d300e1b5c16ef6881068c031269b72e8ba6d463",
+                "key": "account-cloud-managed-5592aed995315c0d2e1aaeeb-2015-06-30T14:59:59-654446",
+                "sym_iv": "ZhF+Kk/3caK36Kf73d46hQ==",
+                "sym_key": "QBzOSOkqSQi5Qlb3u2xzPMRlxRw5UmA9m7mhw8SlE/6C1XScT9QcVCHCiOQjT/nNRKxOpaZK0YA9QJPYeRyT5Sim2epRXLC3OgMFMDKCMj4lgPfVbFl/aRASSvWuhwJi3SrhzU0jaI3gPKNmoWhQFgpmZrtq4uH2hSUnGUQ8XEHDh0Bo73h6GrWbauOMU2mLUIxIGMr1TuNdbwWZamP++8EUTx7PTpGf1v+jtTbNJFpY8t5oDgQULLyi+ZpWkOMqyagggcRYA49lT2ETtAo4j3jmPyGNNoYmK6Y4wgMYz5yIADEs3eU1i9kZAaTLIcWPhELo4XFtVS74MdIPRSi8Vw==",
+                "value": "xvekd4uEKiYMTB7Eq0bh68AIlPbAYoEldiLK4T+rBHY="
+            },
+            "username": {
+                "value": "chris+johnrichardson@wardsoft.co.uk"
+            }
+        },
+        "view_serial": 100
+    }
+}
